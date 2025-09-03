@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Elementos UI</string>
+    <string name="navigation_textfield">Campos Texto</string>
+    <string name="navigation_buttons">Botones</string>
+    <string name="navigation_selection">Selección</string>
+    <string name="navigation_lists">Listas</string>
+    <string name="navigation_info">Información</string>
+    <string name="item_id">#%1$d</string>
+</resources>

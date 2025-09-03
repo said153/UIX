@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_textfield"
+        android:icon="@drawable/ic_edit"
+        android:title="Campos Texto" />
+
+    <item
+        android:id="@+id/nav_buttons"
+        android:icon="@drawable/ic_touch_app"
+        android:title="Botones" />
+
+    <item
+        android:id="@+id/nav_selection"
+        android:icon="@drawable/ic_check_box"
+        android:title="Selección" />
+
+    <item
+        android:id="@+id/nav_lists"
+        android:icon="@drawable/ic_list"
+        android:title="Listas" />
+
+    <item
+        android:id="@+id/nav_info"
+        android:icon="@drawable/ic_info"
+        android:title="Información" />
+
+</menu>
